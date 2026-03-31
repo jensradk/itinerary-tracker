@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.idea/
+.claude/
+.env
+.env.local
+*.local
