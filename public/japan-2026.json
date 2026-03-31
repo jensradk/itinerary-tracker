@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "GENERAL STORE RAILYARD 秋葉原",
+    "note": "JR railroad merch shop",
+    "url": "https://www.google.com/maps/place/GENERAL+STORE+RAILYARD+%E7%A7%8B%E8%91%89%E5%8E%9F/data=!4m2!3m1!1s0x60188d48d882c475:0xe2f9ff7adff3f6c7",
+    "lat": 35.6989,
+    "lng": 139.7731,
+    "visited": false
+  },
+  {
+    "name": "Kappabashi Dougugai Kitchen Town",
+    "note": "Fine knvie osv",
+    "url": "https://www.google.com/maps/place/Kappabashi+Dougugai+Kitchen+Town/data=!4m2!3m1!1s0x60188e95e87e855d:0x214435b365c89bf3",
+    "lat": 35.7109,
+    "lng": 139.7897,
+    "visited": false
+  },
+  {
+    "name": "Laforet Hakone Gora Yunosumika",
+    "note": "HOTEL hakone",
+    "url": "https://www.google.com/maps/place/Laforet+Hakone+Gora+Yunosumika/data=!4m2!3m1!1s0x60199f5646d1c1d5:0x549c917715e1b0d4",
+    "lat": 35.2435,
+    "lng": 139.0452,
+    "visited": false
+  },
+  {
+    "name": "GiGO Shibuya",
+    "note": "Crane games",
+    "url": "https://www.google.com/maps/place/GiGO+Shibuya/data=!4m2!3m1!1s0x60188dd6ef7466d3:0xb9ec60aec8b003a3",
+    "lat": 35.6618,
+    "lng": 139.7008,
+    "visited": false
+  },
+  {
+    "name": "Alpaca fureai land",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Alpaca+fureai+land/data=!4m2!3m1!1s0x60188d7d139670db:0xb69037de664912cb",
+    "lat": 35.699,
+    "lng": 139.7698,
+    "visited": false
+  },
+  {
+    "name": "Ghibli Museum",
+    "note": "Totoro, Spirited away, Princess Mononoke, Kikis delibery service, Nausicaa and Laputa",
+    "url": "https://www.google.com/maps/place/Ghibli+Museum/data=!4m2!3m1!1s0x6018ee34e5038c2d:0x4de155903f849205",
+    "lat": 35.6962,
+    "lng": 139.5704,
+    "visited": false
+  },
+  {
+    "name": "Hachiko Statue",
+    "note": "Billede med hund som ventede på ejer, selvom denne var død",
+    "url": "https://www.google.com/maps/place/Hachiko+Statue/data=!4m2!3m1!1s0x60188b57efbd57c7:0x217e9d9fe306fba",
+    "lat": 35.6591,
+    "lng": 139.7005,
+    "visited": false
+  },
+  {
+    "name": "Tokyo Metropolitan Government Building No.1",
+    "note": "Observation deck 45F, evening light show",
+    "url": "https://www.google.com/maps/place/Tokyo+Metropolitan+Government+Building+No.1/data=!4m2!3m1!1s0x60188cd4b71a37a1:0xf1665c37f38661e8",
+    "lat": 35.6897,
+    "lng": 139.6917,
+    "visited": false
+  },
+  {
+    "name": "Asakusa Culture Tourist Information Center",
+    "note": "Observation deck on 8F",
+    "url": "https://www.google.com/maps/place/Asakusa+Culture+Tourist+Information+Center/data=!4m2!3m1!1s0x60188ec1060d67af:0x7740294b7ef17d49",
+    "lat": 35.7115,
+    "lng": 139.7966,
+    "visited": false
+  },
+  {
+    "name": "Sensoji",
+    "note": "Oplyst om natten",
+    "url": "https://www.google.com/maps/place/Sensoji/data=!4m2!3m1!1s0x60188ec1a4463df1:0x6c0d289a8292810d",
+    "lat": 35.7148,
+    "lng": 139.7967,
+    "visited": false
+  },
+  {
+    "name": "Nakamise Shopping Street",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Nakamise+Shopping+Street/data=!4m2!3m1!1s0x60188ec130fbdd3d:0x5135221a7fa19dbc",
+    "lat": 35.7117,
+    "lng": 139.7965,
+    "visited": false
+  },
+  {
+    "name": "Gōtokuji Temple",
+    "note": "Temple med maneki neko katte",
+    "url": "https://www.google.com/maps/place/G%C5%8Dtokuji+Temple/data=!4m2!3m1!1s0x6018f39f99015555:0x6b0e9ad51be4cac",
+    "lat": 35.6438,
+    "lng": 139.6387,
+    "visited": false
+  },
+  {
+    "name": "Chopstick making class",
+    "note": "https://www.traveling-tokyo.com/zen/chopsticks/#location",
+    "url": "https://www.google.com/maps/place/Chopstick+making+class/data=!4m2!3m1!1s0x60188f0064e0c851:0x44f4bfcae6333c75",
+    "lat": 35.6882,
+    "lng": 139.7661,
+    "visited": false
+  },
+  {
+    "name": "Ueno Park",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Ueno+Park/data=!4m2!3m1!1s0x60188e9b45906ac3:0xb1cb3623124e645a",
+    "lat": 35.7149,
+    "lng": 139.7738,
+    "visited": false
+  },
+  {
+    "name": "Richmond Hotel",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Richmond+Hotel/data=!4m2!3m1!1s0x60188ec6a7f4d25b:0x1840e229c9595cac",
+    "lat": 35.7127,
+    "lng": 139.798,
+    "visited": false
+  },
+  {
+    "name": "Kōdaiji Temple Bamboo Forest",
+    "note": "",
+    "url": "https://www.google.com/maps/place/K%C5%8Ddaiji+Temple+Bamboo+Forest/data=!4m2!3m1!1s0x600109c178139833:0xe77f5887e2c4ee55",
+    "lat": 35.0005,
+    "lng": 135.7807,
+    "visited": false
+  },
+  {
+    "name": "Take-no-Michi (Muko bamboo path)",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Take-no-Michi+(Muko+bamboo+path)/data=!4m2!3m1!1s0x60010700307cc285:0x849aaae81e01e418",
+    "lat": 34.9352,
+    "lng": 135.6985,
+    "visited": false
+  },
+  {
+    "name": "FUTURE TRAIN KYOTO DINER & CAFE",
+    "note": "",
+    "url": "https://www.google.com/maps/place/FUTURE+TRAIN+KYOTO+DINER+%26+CAFE/data=!4m2!3m1!1s0x6001071edcc74405:0x75e17e849b89ba5a",
+    "lat": 34.9882,
+    "lng": 135.7576,
+    "visited": false
+  },
+  {
+    "name": "MENYA INOICHI #3",
+    "note": "",
+    "url": "https://www.google.com/maps/place/MENYA+INOICHI+%233/data=!4m2!3m1!1s0x60011100021a1e0b:0x52495fb19d90df08",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "visited": false
+  },
+  {
+    "name": "Otagi Nenbutsuji Temple",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Otagi+Nenbutsuji+Temple/data=!4m2!3m1!1s0x6001aa3999ac708b:0x57b7af11417a95d2",
+    "lat": 35.0636,
+    "lng": 135.6685,
+    "visited": false
+  },
+  {
+    "name": "Saga Toriimoto Town Preservation Center",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Saga+Toriimoto+Town+Preservation+Center/data=!4m2!3m1!1s0x6001aa3c4d43fcc9:0xeba22260a985c945",
+    "lat": 35.0326,
+    "lng": 135.6733,
+    "visited": false
+  },
+  {
+    "name": "Arashiyama",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Arashiyama/data=!4m2!3m1!1s0x6001075451efd3e3:0xabaad64f597b014c",
+    "lat": 35.0094,
+    "lng": 135.6728,
+    "visited": false
+  },
+  {
+    "name": "Arashiyama Bamboo Forest",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Arashiyama+Bamboo+Forest/data=!4m2!3m1!1s0x6001abebbf5c8bad:0xfb9ffc7bbdd67cdd",
+    "lat": 35.017,
+    "lng": 135.6719,
+    "visited": false
+  },
+  {
+    "name": "Tenryu-ji",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Tenryu-ji/data=!4m2!3m1!1s0x6001aa01b80f9e93:0xcd9c3edaff3348c0",
+    "lat": 35.0157,
+    "lng": 135.6739,
+    "visited": false
+  },
+  {
+    "name": "lotus lake",
+    "note": "",
+    "url": "https://www.google.com/maps/place/lotus+lake/data=!4m2!3m1!1s0x6001ab5a4e4f372b:0xab1d71fc17e13764",
+    "lat": 35.0284,
+    "lng": 135.6634,
+    "visited": false
+  },
+  {
+    "name": "Mirador al bosque de bambú",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Mirador+al+bosque+de+bamb%C3%BA/data=!4m2!3m1!1s0x6001ab006aa239e9:0x632e9987b8c3287f",
+    "lat": 35.01694,
+    "lng": 135.67278,
+    "visited": false
+  },
+  {
+    "name": "Kyoto University of Education",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Kyoto+University+of+Education/data=!4m2!3m1!1s0x60010fa06126d149:0xf8e170e927c8c529",
+    "lat": 34.99485,
+    "lng": 135.7289,
+    "visited": false
+  },
+  {
+    "name": "Kiyomizu-dera",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Kiyomizu-dera/data=!4m2!3m1!1s0x600108d385dcfb07:0x62af658650c434ba",
+    "lat": 34.99487,
+    "lng": 135.78506,
+    "visited": false
+  },
+  {
+    "name": "Yasaka Shrine",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Yasaka+Shrine/data=!4m2!3m1!1s0x60010879a010eca9:0xc77ac89d5a241ae9",
+    "lat": 35.00361,
+    "lng": 135.77861,
+    "visited": false
+  },
+  {
+    "name": "Nijō Castle",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Nij%C5%8D+Castle/data=!4m2!3m1!1s0x600107d40a2b9b0b:0x106b8759906a2f2f",
+    "lat": 35.01422,
+    "lng": 135.74831,
+    "visited": false
+  },
+  {
+    "name": "Gion",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Gion/data=!4m2!3m1!1s0x600108c3c1c67b67:0xdcb04aa1398efb4",
+    "lat": 35.00297,
+    "lng": 135.77583,
+    "visited": false
+  },
+  {
+    "name": "Philosopher's Path (Tetsugaku no Michi)",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Philosopher's+Path+(Tetsugaku+no+Michi)/data=!4m2!3m1!1s0x60010908ae94f057:0x917af331a75280f4",
+    "lat": 35.02589,
+    "lng": 135.79472,
+    "visited": false
+  },
+  {
+    "name": "Nanzen-ji",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Nanzen-ji/data=!4m2!3m1!1s0x600109217397fbfd:0x38b339a4c7e7004d",
+    "lat": 35.01158,
+    "lng": 135.79308,
+    "visited": false
+  },
+  {
+    "name": "teamLab Biovortex Kyoto",
+    "note": "",
+    "url": "https://www.google.com/maps/place/teamLab+Biovortex+Kyoto/data=!4m2!3m1!1s0x600109006b176e51:0xa7ae7cff3e9c03b",
+    "lat": 35.00889,
+    "lng": 135.77167,
+    "visited": false
+  },
+  {
+    "name": "Giōji Temple",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Gi%C5%8Dji+Temple/data=!4m2!3m1!1s0x6001aa175bdc44b3:0xbe5c2851719aa546",
+    "lat": 35.02306,
+    "lng": 135.66222,
+    "visited": false
+  },
+  {
+    "name": "BAPE STORE® HARAJUKU",
+    "note": "T-shirt til W",
+    "url": "https://www.google.com/maps/place/BAPE+STORE%C2%AE+HARAJUKU/data=!4m2!3m1!1s0x60188ca3d04a6873:0x9f2dc8c2723d8e14",
+    "lat": 35.66986,
+    "lng": 139.70278,
+    "visited": false
+  },
+  {
+    "name": "Surugaya",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Surugaya/data=!4m2!3m1!1s0x600108be11009199:0x5c9436573607cfb0",
+    "lat": 34.99444,
+    "lng": 135.76889,
+    "visited": false
+  },
+  {
+    "name": "Surugaya - Nara Daianji",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Surugaya+-+Nara+Daianji/data=!4m2!3m1!1s0x60013b004a83ef37:0x544a084490bf6ec4",
+    "lat": 34.67556,
+    "lng": 135.79778,
+    "visited": false
+  },
+  {
+    "name": "Kani Doraku Dotombori Nakamise",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Kani+Doraku+Dotombori+Nakamise/data=!4m2!3m1!1s0x6000e714ee6455ab:0x8146851bd488035f",
+    "lat": 34.66861,
+    "lng": 135.50222,
+    "visited": false
+  },
+  {
+    "name": "Glico Sign Dotonbori",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Glico+Sign+Dotonbori/data=!4m2!3m1!1s0x6000e71493ce71e9:0x5b59203ed8fd29bf",
+    "lat": 34.66889,
+    "lng": 135.5025,
+    "visited": false
+  },
+  {
+    "name": "WIGGLE WIGGLE.ZIP HARAJUKU",
+    "note": "",
+    "url": "https://www.google.com/maps/place/WIGGLE+WIGGLE.ZIP+HARAJUKU/data=!4m2!3m1!1s0x60188dcfef109063:0x62e89d961af2885f",
+    "lat": 35.67,
+    "lng": 139.70444,
+    "visited": false
+  },
+  {
+    "name": "mipig cafe 浅草店【マイクロブタカフェ】",
+    "note": "",
+    "url": "https://www.google.com/maps/place/mipig+cafe+%E6%B5%85%E8%8D%89%E5%BA%97%E3%80%90%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%96%E3%82%BF%E3%82%AB%E3%83%95%E3%82%A7%E3%80%91/data=!4m2!3m1!1s0x60188f166492f501:0xc6675e10ff517464",
+    "lat": 35.71194,
+    "lng": 139.79667,
+    "visited": false
+  },
+  {
+    "name": "Umeda Sky Building",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Umeda+Sky+Building/data=!4m2!3m1!1s0x6000e6889074276f:0x57c2e32670decafd",
+    "lat": 34.70528,
+    "lng": 135.49028,
+    "visited": false
+  },
+  {
+    "name": "Naka-Gora Station",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Naka-Gora+Station/data=!4m2!3m1!1s0x60199f559a93782f:0x5e3b389bbdc0cd18",
+    "lat": 35.22861,
+    "lng": 139.04111,
+    "visited": false
+  },
+  {
+    "name": "Hakone Pirate Ship Tōgendai Port",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Hakone+Pirate+Ship+T%C5%8Dgendai+Port/data=!4m2!3m1!1s0x60199eda464b29f1:0xda213f9401592c10",
+    "lat": 35.22139,
+    "lng": 139.02944,
+    "visited": false
+  },
+  {
+    "name": "Hakone Jinjya Heiwa-no-Torii",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Hakone+Jinjya+Heiwa-no-Torii/data=!4m2!3m1!1s0x6019988a06f105ab:0x6f4b50288715dc3a",
+    "lat": 35.20306,
+    "lng": 139.02417,
+    "visited": false
+  },
+  {
+    "name": "Nintendo Museum",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Nintendo+Museum/data=!4m2!3m1!1s0x60011188b83087d3:0x646fdf4a68b62b4d",
+    "lat": 34.96139,
+    "lng": 135.61389,
+    "visited": false
+  },
+  {
+    "name": "ANTIQUE MIKE",
+    "note": "",
+    "url": "https://www.google.com/maps/place/ANTIQUE+MIKE/data=!4m2!3m1!1s0x6000e711cd633a55:0x835164cd212668ff",
+    "lat": 34.66778,
+    "lng": 135.50083,
+    "visited": false
+  },
+  {
+    "name": "BAPE STORE® SHIBUYA",
+    "note": "t-shirt til W",
+    "url": "https://www.google.com/maps/place/BAPE+STORE%C2%AE+SHIBUYA/data=!4m2!3m1!1s0x60188ca902250d9f:0xecf4aa64deb3104a",
+    "lat": 35.66278,
+    "lng": 139.70056,
+    "visited": false
+  },
+  {
+    "name": "Kasugataisha Shrine",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Kasugataisha+Shrine/data=!4m2!3m1!1s0x600139c06bb06ad5:0x4c97e78382e39596",
+    "lat": 34.68194,
+    "lng": 135.84833,
+    "visited": false
+  },
+  {
+    "name": "Ameyoko market",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Ameyoko+market/data=!4m2!3m1!1s0x60188f00af83b787:0x654b0a29a45fcf0a",
+    "lat": 35.7121,
+    "lng": 139.7744,
+    "visited": false
+  },
+  {
+    "name": "Mimasu",
+    "note": "Skulle være specielt, men de forstår ikke engelsk",
+    "url": "https://www.google.com/maps/place/Mimasu/data=!4m2!3m1!1s0x60188cebdb5280f5:0x166721658277df86",
+    "lat": 34.669,
+    "lng": 135.5015,
+    "visited": false
+  },
+  {
+    "name": "Dotonbori",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Dotonbori/data=!4m2!3m1!1s0x6000e713818af9fd:0xb8bb1326b48ba590",
+    "lat": 34.6686,
+    "lng": 135.5023,
+    "visited": false
+  },
+  {
+    "name": "Tokyo Tower",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Tokyo+Tower/data=!4m2!3m1!1s0x60188bbd9009ec09:0x481a93f0d2a409dd",
+    "lat": 35.6586,
+    "lng": 139.7454,
+    "visited": false
+  },
+  {
+    "name": "Lotte Kasai Golf",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Lotte+Kasai+Golf/data=!4m2!3m1!1s0x601887ff54118c9d:0x36d97ac2e05416d2",
+    "lat": 35.6559,
+    "lng": 139.8682,
+    "visited": false
+  },
+  {
+    "name": "Tokyo Dome City Attractions",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Tokyo+Dome+City+Attractions/data=!4m2!3m1!1s0x60188c38bbfa1709:0x44298a802542c472",
+    "lat": 35.7056,
+    "lng": 139.7519,
+    "visited": false
+  },
+  {
+    "name": "Tokyo Skytree",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Tokyo+Skytree/data=!4m2!3m1!1s0x60188ed0d12f9adf:0x7d1d4fb31f43f72a",
+    "lat": 35.7101,
+    "lng": 139.8107,
+    "visited": false
+  },
+  {
+    "name": "Nakano Broadway",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Nakano+Broadway/data=!4m2!3m1!1s0x6018f290b2ddee83:0xe1b67e4ee0eff0be",
+    "lat": 35.7055,
+    "lng": 139.6647,
+    "visited": false
+  },
+  {
+    "name": "Mandarake Nakano",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Mandarake+Nakano/data=!4m2!3m1!1s0x6018f3cec603af7b:0x278fd59d53c2cc8e",
+    "lat": 35.7055,
+    "lng": 139.6647,
+    "visited": false
+  },
+  {
+    "name": "Shinsekai",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Shinsekai/data=!4m2!3m1!1s0x6000e7607657a257:0x36b1d7d86ab8d6fb",
+    "lat": 34.6523,
+    "lng": 135.5061,
+    "visited": false
+  },
+  {
+    "name": "Nara Park",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Nara+Park/data=!4m2!3m1!1s0x60013996bd8c6061:0xf96cacf357447456",
+    "lat": 34.6851,
+    "lng": 135.8431,
+    "visited": false
+  },
+  {
+    "name": "Tōdai-ji",
+    "note": "",
+    "url": "https://www.google.com/maps/place/T%C5%8Ddai-ji/data=!4m2!3m1!1s0x600139907a0876dd:0xf890ac3f9dd53c8f",
+    "lat": 34.689,
+    "lng": 135.8398,
+    "visited": false
+  },
+  {
+    "name": "Nishiki Market",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Nishiki+Market/data=!4m2!3m1!1s0x6001089ccd8ccb4f:0xb69ea31001ec6c9c",
+    "lat": 35.005,
+    "lng": 135.7636,
+    "visited": false
+  },
+  {
+    "name": "Fushimi Inari-taisha",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Fushimi+Inari-taisha/data=!4m2!3m1!1s0x60010f153d2e6d21:0x7b1aca1c753ae2e9",
+    "lat": 34.9671,
+    "lng": 135.7727,
+    "visited": false
+  },
+  {
+    "name": "Kinkakuji",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Kinkakuji/data=!4m2!3m1!1s0x6001a820c0eb46bd:0xee4272b1c22645f",
+    "lat": 35.0394,
+    "lng": 135.7292,
+    "visited": false
+  },
+  {
+    "name": "Hakone Black Eggs",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Hakone+Black+Eggs/data=!4m2!3m1!1s0x60199f0030fc18db:0xf5fcd96d0b8e9fde",
+    "lat": 35.2402,
+    "lng": 139.0217,
+    "visited": false
+  },
+  {
+    "name": "Osaka Castle",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Osaka+Castle/data=!4m2!3m1!1s0x6000e0cd5c283afd:0xf01d07d5ca11e41",
+    "lat": 34.6873,
+    "lng": 135.5262,
+    "visited": false
+  },
+  {
+    "name": "Kawagoe",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Kawagoe/data=!4m2!3m1!1s0x6018da49f61066b7:0xdfd5d75b60b9af9e",
+    "lat": 35.9253,
+    "lng": 139.4857,
+    "visited": false
+  },
+  {
+    "name": "ICHIRAN Shinjuku Station Central East Exit",
+    "note": "",
+    "url": "https://www.google.com/maps/place/ICHIRAN+Shinjuku+Station+Central+East+Exit/data=!4m2!3m1!1s0x60188cda5f050cf1:0x397988c6d1296d56",
+    "lat": 35.6908,
+    "lng": 139.7007,
+    "visited": false
+  },
+  {
+    "name": "teamLab Planets TOKYO DMM",
+    "note": "",
+    "url": "https://www.google.com/maps/place/teamLab+Planets+TOKYO+DMM/data=!4m2!3m1!1s0x60188908e728e749:0x6de450c94bd3d622",
+    "lat": 35.6654,
+    "lng": 139.7988,
+    "visited": false
+  },
+  {
+    "name": "SURUGA-YA Akihabara Main Building",
+    "note": "Retro spil",
+    "url": "https://www.google.com/maps/place/SURUGA-YA+Akihabara+Main+Building/data=!4m2!3m1!1s0x60188d48c5c23c85:0x2b079e2f7e5a647d",
+    "lat": 35.6983,
+    "lng": 139.773,
+    "visited": false
+  },
+  {
+    "name": "MEGA Don Quijote",
+    "note": "",
+    "url": "https://www.google.com/maps/place/MEGA+Don+Quijote/data=!4m2!3m1!1s0x60188ca9a47a82af:0x7ea0d3bc82ce0275",
+    "lat": 35.696,
+    "lng": 139.7004,
+    "visited": false
+  },
+  {
+    "name": "Shibuya Center-Gai Street",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Shibuya+Center-Gai+Street/data=!4m2!3m1!1s0x60188ca83757a153:0x6f4231232abaf7d1",
+    "lat": 35.6615,
+    "lng": 139.6982,
+    "visited": false
+  },
+  {
+    "name": "Sushiro Shinjuku Nishiguchi",
+    "note": "Sushi med spil på storskærm",
+    "url": "https://www.google.com/maps/place/Sushiro+Shinjuku+Nishiguchi/data=!4m2!3m1!1s0x60188d46ddd2b667:0x9b561681ee158882",
+    "lat": 35.6938,
+    "lng": 139.697,
+    "visited": false
+  },
+  {
+    "name": "Mawari Sushi Shibuya Parco branch",
+    "note": "Anbefalet sushi fra YT",
+    "url": "https://www.google.com/maps/place/Mawari+Sushi+Shibuya+Parco+branch/data=!4m2!3m1!1s0x60188d3354b6e81b:0xf1e851e99f5f829f",
+    "lat": 35.6633,
+    "lng": 139.701,
+    "visited": false
+  },
+  {
+    "name": "Streamer Coffee Company Shibuya",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Streamer+Coffee+Company+Shibuya/data=!4m2!3m1!1s0x60188ca6ff85e627:0xe542e1ed245eb17d",
+    "lat": 35.661944,
+    "lng": 139.700556,
+    "visited": false
+  },
+  {
+    "name": "Miyashita Park",
+    "note": "Skate Park på toppen",
+    "url": "https://www.google.com/maps/place/Miyashita+Park/data=!4m2!3m1!1s0x60188de622941551:0x5400fedc2467d9be",
+    "lat": 35.663889,
+    "lng": 139.702778,
+    "visited": false
+  },
+  {
+    "name": "Shibuya Scramble Square",
+    "note": "Udsigt fra 12. etage",
+    "url": "https://www.google.com/maps/place/Shibuya+Scramble+Square/data=!4m2!3m1!1s0x60188b8427e1c0b1:0x78f6e23397061d6f",
+    "lat": 35.658611,
+    "lng": 139.703056,
+    "visited": false
+  },
+  {
+    "name": "Shibuya Sky",
+    "note": "Book på forhånd, aften",
+    "url": "https://www.google.com/maps/place/Shibuya+Sky/data=!4m2!3m1!1s0x60188b6825f61ae1:0x6ff47ee61e522473",
+    "lat": 35.658333,
+    "lng": 139.703333,
+    "visited": false
+  },
+  {
+    "name": "Bakudan-yaki Honpo Ikebukuro",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Bakudan-yaki+Honpo+Ikebukuro/data=!4m2!3m1!1s0x60188d661d0f3ba9:0x195cbbf9d57b0dd9",
+    "lat": 35.729722,
+    "lng": 139.711111,
+    "visited": false
+  },
+  {
+    "name": "Sunshine City",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Sunshine+City/data=!4m2!3m1!1s0x60188d6f134fd653:0x51eb1d42c77222c2",
+    "lat": 35.729167,
+    "lng": 139.718889,
+    "visited": false
+  },
+  {
+    "name": "Shakey's Ikebukuro East",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Shakey's+Ikebukuro+East/data=!4m2!3m1!1s0x60188d662c9b8fb9:0x11384a9e46376abe",
+    "lat": 35.730556,
+    "lng": 139.713056,
+    "visited": false
+  },
+  {
+    "name": "animate Ikebukuro main store",
+    "note": "",
+    "url": "https://www.google.com/maps/place/animate+Ikebukuro+main+store/data=!4m2!3m1!1s0x60188d6f4361458b:0x503df2e68ddac61a",
+    "lat": 35.729444,
+    "lng": 139.717778,
+    "visited": false
+  },
+  {
+    "name": "Super Potato Ikebukuro Game Yokocho",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Super+Potato+Ikebukuro+Game+Yokocho/data=!4m2!3m1!1s0x60188d68c7eea6a9:0xaf7c67e315ab1668",
+    "lat": 35.731111,
+    "lng": 139.714722,
+    "visited": false
+  },
+  {
+    "name": "Round One Ikebukuro",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Round+One+Ikebukuro/data=!4m2!3m1!1s0x60188d68a6a74639:0x48c8e766cd2c137e",
+    "lat": 35.731389,
+    "lng": 139.715278,
+    "visited": false
+  },
+  {
+    "name": "Mikuni-koji",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Mikuni-koji/data=!4m2!3m1!1s0x60188d68b937b8bf:0x87cd60aeaba1dc8a",
+    "lat": 35.731667,
+    "lng": 139.715,
+    "visited": false
+  },
+  {
+    "name": "HARD OFF Akihabara 1st store",
+    "note": "",
+    "url": "https://www.google.com/maps/place/HARD+OFF+Akihabara+1st+store/data=!4m2!3m1!1s0x60188c1dca4ac56f:0x61fe8f7f07c0046b",
+    "lat": 35.699167,
+    "lng": 139.772222,
+    "visited": false
+  },
+  {
+    "name": "Yellow Submarine Akihabara RPG Shop",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Yellow+Submarine+Akihabara+RPG+Shop/data=!4m2!3m1!1s0x60188c1da7c1369f:0xee0b476b048878dc",
+    "lat": 35.698889,
+    "lng": 139.7725,
+    "visited": false
+  },
+  {
+    "name": "BIGMAGIC 秋葉原店",
+    "note": "",
+    "url": "https://www.google.com/maps/place/BIGMAGIC+%E7%A7%8B%E8%91%89%E5%8E%9F%E5%BA%97/data=!4m2!3m1!1s0x60188c1d4f36d26f:0xbcafbfd6e6ae1a6a",
+    "lat": 35.699444,
+    "lng": 139.772778,
+    "visited": false
+  },
+  {
+    "name": "CARD WINGS",
+    "note": "",
+    "url": "https://www.google.com/maps/place/CARD+WINGS/data=!4m2!3m1!1s0x60188c1d4e6bb585:0xd8ab55793ea13175",
+    "lat": 35.699444,
+    "lng": 139.772778,
+    "visited": false
+  },
+  {
+    "name": "Amenity Dream Akihabara Shop",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Amenity+Dream+Akihabara+Shop/data=!4m2!3m1!1s0x60188c1da7c1369f:0xf984ad4f6782f",
+    "lat": 35.698889,
+    "lng": 139.7725,
+    "visited": false
+  },
+  {
+    "name": "Yellow Submarine Ikebukuro game shop",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Yellow+Submarine+Ikebukuro+game+shop/data=!4m2!3m1!1s0x60188d663f6e04d5:0xc1c0c706a7b21d49",
+    "lat": 35.730278,
+    "lng": 139.7125,
+    "visited": false
+  },
+  {
+    "name": "Mint Games Ikebukuro",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Mint+Games+Ikebukuro/data=!4m2!3m1!1s0x60188dcadeb3ba83:0x2c8afc9d219bdda5",
+    "lat": 35.733889,
+    "lng": 139.709167,
+    "visited": false
+  },
+  {
+    "name": "Hareruya Tournament Center Tokyo",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Hareruya+Tournament+Center+Tokyo/data=!4m2!3m1!1s0x60188d3788f64e57:0x3c277d73bddb651d",
+    "lat": 35.697778,
+    "lng": 139.728333,
+    "visited": false
+  },
+  {
+    "name": "TokyoMTG",
+    "note": "",
+    "url": "https://www.google.com/maps/place/TokyoMTG/data=!4m2!3m1!1s0x60188c407f69a899:0xb356fc3eca89e470",
+    "lat": 35.680556,
+    "lng": 139.763333,
+    "visited": false
+  },
+  {
+    "name": "Little Bakery At 3-chome",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Little+Bakery+At+3-chome/data=!4m2!3m1!1s0x60188cdc04a3ffff:0x3ed43989c914ea68",
+    "lat": 35.686389,
+    "lng": 139.775556,
+    "visited": false
+  },
+  {
+    "name": "Funabashi Andersen City Park",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Funabashi+Andersen+City+Park/data=!4m2!3m1!1s0x60227e5329d23245:0xd4cde63c28d3f984",
+    "lat": 35.773889,
+    "lng": 140.028056,
+    "visited": false
+  },
+  {
+    "name": "Mini-Golf",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Mini-Golf/data=!4m2!3m1!1s0x6018897f3a2a89f5:0xc730951c969936a4",
+    "lat": 35.660556,
+    "lng": 139.685278,
+    "visited": false
+  },
+  {
+    "name": "Asakusa Hanayashiki",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Asakusa+Hanayashiki/data=!4m2!3m1!1s0x60188ec02219773d:0x6bb2077ac9a688b1",
+    "lat": 35.715,
+    "lng": 139.795556,
+    "visited": false
+  },
+  {
+    "name": "Tokyo Joypolis",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Tokyo+Joypolis/data=!4m2!3m1!1s0x601889f65e4f37b9:0x54acae2e02ff1426",
+    "lat": 35.625278,
+    "lng": 139.775,
+    "visited": false
+  },
+  {
+    "name": "ROUND-ONE Entertainment",
+    "note": "",
+    "url": "https://www.google.com/maps/place/ROUND-ONE+Entertainment/data=!4m2!3m1!1s0x60188cde6dcfc9df:0x31736c4ba2116c1f",
+    "lat": 35.6938,
+    "lng": 139.7007,
+    "visited": false
+  },
+  {
+    "name": "HEY (Hirose Entertainment Yard) Taito",
+    "note": "",
+    "url": "https://www.google.com/maps/place/HEY+(Hirose+Entertainment+Yard)+Taito/data=!4m2!3m1!1s0x60188c1d0fa74495:0x5d25013b2f9319a4",
+    "lat": 35.7074,
+    "lng": 139.7794,
+    "visited": false
+  },
+  {
+    "name": "LEGO Store Roppongi Hills",
+    "note": "",
+    "url": "https://www.google.com/maps/place/LEGO+Store+Roppongi+Hills/data=!4m2!3m1!1s0x60188b77a9878f2f:0x6f8d17ced3276bf3",
+    "lat": 35.6606,
+    "lng": 139.7291,
+    "visited": false
+  },
+  {
+    "name": "LEGO Store DiverCity Tokyo Plaza",
+    "note": "",
+    "url": "https://www.google.com/maps/place/LEGO+Store+DiverCity+Tokyo+Plaza/data=!4m2!3m1!1s0x601889fdbb28b819:0x69600e838f4f45e5",
+    "lat": 35.6252,
+    "lng": 139.7756,
+    "visited": false
+  },
+  {
+    "name": "Shibuya Crossing",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Shibuya+Crossing/data=!4m2!3m1!1s0x60188bcaeb0cd12b:0x20e563a2e0aec969",
+    "lat": 35.6595,
+    "lng": 139.7004,
+    "visited": false
+  },
+  {
+    "name": "Nintendo Tokyo",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Nintendo+Tokyo/data=!4m2!3m1!1s0x60188dae14b52bed:0xca9863932bd4be02",
+    "lat": 35.7122,
+    "lng": 139.7755,
+    "visited": false
+  },
+  {
+    "name": "SEGA STORE TOKYO",
+    "note": "",
+    "url": "https://www.google.com/maps/place/SEGA+STORE+TOKYO/data=!4m2!3m1!1s0x60188d004cfe29ad:0x87bd221e1c86d181",
+    "lat": 35.6975,
+    "lng": 139.7705,
+    "visited": false
+  },
+  {
+    "name": "TAITO Station Akihabara",
+    "note": "",
+    "url": "https://www.google.com/maps/place/TAITO+Station+Akihabara/data=!4m2!3m1!1s0x60188c1d983806c1:0xff1bda404887f82",
+    "lat": 35.6983,
+    "lng": 139.773,
+    "visited": false
+  },
+  {
+    "name": "Akihabara",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Akihabara/data=!4m2!3m1!1s0x60188ea73ea6f4ff:0x5eb9f1e50fe061e3",
+    "lat": 35.6982,
+    "lng": 139.7731,
+    "visited": false
+  },
+  {
+    "name": "Godzilla Head",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Godzilla+Head/data=!4m2!3m1!1s0x60188d74dcc81ccd:0x2d7e490be8560647",
+    "lat": 35.6945,
+    "lng": 139.7007,
+    "visited": false
+  },
+  {
+    "name": "Meijihelligdommen",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Meijihelligdommen/data=!4m2!3m1!1s0x60188cb79a4c26e5:0x8fca893849103f73",
+    "lat": 35.6764,
+    "lng": 139.6993,
+    "visited": false
+  },
+  {
+    "name": "Asakusa Shrine",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Asakusa+Shrine/data=!4m2!3m1!1s0x60188ec19985adc7:0x4ee971c69713140f",
+    "lat": 35.7147,
+    "lng": 139.7966,
+    "visited": false
+  },
+  {
+    "name": "Hareruya 2",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Hareruya+2/data=!4m2!3m1!1s0x60188dcb0f060fdb:0x8b25727bb2f293ff",
+    "lat": 35.7022,
+    "lng": 139.7671,
+    "visited": false
+  },
+  {
+    "name": "Hareruya",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Hareruya/data=!4m2!3m1!1s0x60188dd3bb16357b:0x681fc1310cc92be7",
+    "lat": 35.7022,
+    "lng": 139.767,
+    "visited": false
+  },
+  {
+    "name": "Hareruya Shibuya",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Hareruya+Shibuya/data=!4m2!3m1!1s0x60188b439f3cf96d:0xf90a522aa2fa6aa1",
+    "lat": 35.6618,
+    "lng": 139.6983,
+    "visited": false
+  },
+  {
+    "name": "SHIBUYA CROSSING S VIEW",
+    "note": "",
+    "url": "https://www.google.com/maps/place/SHIBUYA+CROSSING+S+VIEW/data=!4m2!3m1!1s0x60188b9ca0da9521:0xa806d55e8f644485",
+    "lat": 35.6593,
+    "lng": 139.7009,
+    "visited": false
+  },
+  {
+    "name": "Freeman Shokudo",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Freeman+Shokudo/data=!4m2!3m1!1s0x6018f36ed0027493:0x1455719901baf0f0",
+    "lat": 35.6311,
+    "lng": 139.8809,
+    "visited": false
+  },
+  {
+    "name": "Nakano Sun Mall",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Nakano+Sun+Mall/data=!4m2!3m1!1s0x6018f296b578d27f:0xc80a0aa3c690cb85",
+    "lat": 35.7063,
+    "lng": 139.6648,
+    "visited": false
+  },
+  {
+    "name": "Takeshita St",
+    "note": "Rainbow toast",
+    "url": "https://www.google.com/maps/place/Takeshita+St/data=!4m2!3m1!1s0x60188cbaf1de5995:0xc2becc88ea4e7eb5",
+    "lat": 35.6703,
+    "lng": 139.7027,
+    "visited": false
+  },
+  {
+    "name": "Menya Nishikawa",
+    "note": "Lækker beef ramen",
+    "url": "https://www.google.com/maps/place/Menya+Nishikawa/data=!4m2!3m1!1s0x60188cee3d5b23dd:0x4ddb2c30db68417d",
+    "lat": 35.6761,
+    "lng": 139.706,
+    "visited": false
+  },
+  {
+    "name": "Yodobashi Akiba",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Yodobashi+Akiba/data=!4m2!3m1!1s0x60188ea7d9cc4f19:0x7bb917c6708b7376",
+    "lat": 35.6985,
+    "lng": 139.771,
+    "visited": false
+  },
+  {
+    "name": "Asakusa Underground Street",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Asakusa+Underground+Street/data=!4m2!3m1!1s0x60188ec6985348d9:0xe748562bd18595cb",
+    "lat": 35.7115,
+    "lng": 139.7963,
+    "visited": false
+  },
+  {
+    "name": "Wood Works Kawagoe",
+    "note": "Lave egne chopsticks",
+    "url": "https://www.google.com/maps/place/Wood+Works+Kawagoe/data=!4m2!3m1!1s0x6018dbcf11a392df:0x223c07536dff5798",
+    "lat": 35.9252,
+    "lng": 139.4857,
+    "visited": false
+  },
+  {
+    "name": "Super Potato Akihabara Branch",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Super+Potato+Akihabara+Branch/data=!4m2!3m1!1s0x60188ea71e6e4271:0x69b7235237e2ee77",
+    "lat": 35.6989,
+    "lng": 139.7707,
+    "visited": false
+  },
+  {
+    "name": "Tokyos kejserpalads",
+    "note": "",
+    "url": "https://www.google.com/maps/place/Tokyos+kejserpalads/data=!4m2!3m1!1s0x60188c0d02d8064d:0xd11a5f0b379e6db7",
+    "lat": 35.6852,
+    "lng": 139.7528,
+    "visited": false
+  }
+]

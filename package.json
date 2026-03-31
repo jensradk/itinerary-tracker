@@ -1,0 +1,18 @@
+{
+  "name": "itinerary-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Trip planner with Leaflet maps, Claude API geocoding, and localStorage persistence",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.0.3"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  }
+}
