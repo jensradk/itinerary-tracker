@@ -51,15 +51,16 @@ html, body {
   font-size: 11px; font-weight: 600; padding: 4px 10px; border-radius: 6px;
 }
 .popup-btns { display: flex; flex-direction: column; gap: 8px; }
-.popup-card .open-gmaps, .popup-card .show-in-list {
+.popup-card .open-gmaps, .popup-card .toggle-visited, .popup-card .show-in-list {
   display: flex; align-items: center; justify-content: center; gap: 8px;
   width: 100%; padding: 11px; border-radius: 10px;
   font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 600;
   cursor: pointer; transition: opacity 0.15s; text-decoration: none; border: none;
 }
 .popup-card .open-gmaps { background: var(--accent); color: #0a0a0a; }
+.popup-card .toggle-visited { background: rgba(58,158,151,0.15); color: #3a9e97; border: 1px solid #3a9e97; }
 .popup-card .show-in-list { background: var(--surface-2); color: var(--text); border: 1px solid var(--border); }
-.open-gmaps:hover, .show-in-list:hover { opacity: 0.85; }
+.open-gmaps:hover, .toggle-visited:hover, .show-in-list:hover { opacity: 0.85; }
 
 .fab {
   position: fixed; z-index: 1000; width: 52px; height: 52px;
